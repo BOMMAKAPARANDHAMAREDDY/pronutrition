@@ -1,0 +1,22 @@
+.searchSection h1{
+  text-align: center;
+  margin: 2%;
+}
+
+.searchSection h2{
+  text-align: center;
+  margin: 2%;
+}
+
+.searchSection input{
+  position: relative;
+  left: 43%;
+  height: 30px;
+  width: 15%;
+  border-radius: 15px;
+  background-color: rgb(103, 161, 218);
+}
+.searchSection input::placeholder{
+  text-align: center;
+  color: black;
+}
